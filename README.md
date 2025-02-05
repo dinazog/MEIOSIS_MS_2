@@ -1,5 +1,5 @@
 # MEIOSIS_MS_2
-## Second manuscript for MEIOSIS project
+## Second manuscript for the project MEIOSIS
 This repository contains R scripts and data for analyzing butterfly body size trends over the past 110 years using Generalized Additive Models (GAM). The study investigates how life history traits (e.g., phenology, voltinism, gender) and ecological factors (e.g., thermal tolerance, mobility) influence body size in response to climate change and land use. Results reveal sex-specific trends, with males showing size reductions and females exhibiting opposite patterns, highlighting the complex effects of environmental change on butterfly morphology.
 
 # Butterfly Body Size Trends Analysis
